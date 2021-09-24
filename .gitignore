@@ -1,0 +1,8 @@
+.vscode
+venv
+.env
+**/__pycache__
+*.pyc
+*.swp
+.pytest_cache
+.teste.py
